@@ -3,7 +3,7 @@
 
 Console.Clear();
 
-bool playAgain;
+bool playAgain = true;
 bool isConverted = false;
 bool isNumber;
 int validNum = 0;
@@ -15,6 +15,7 @@ int reverseNum = 0;
 while(playAgain == true)
 {
     // 
+    reverseNum = 0;
     Console.WriteLine("Want to reverse some numbers?");
     Console.Write("Please type YES or NO: ");
     string yesNo = Console.ReadLine();
@@ -29,17 +30,43 @@ while(playAgain == true)
         playAgain = false;
     }
     else if(yesNo == "YES" && isNumber != true)
+    
     {
-        // 
-        Console.WriteLine("Alright, that's good to hear.");
-        Console.Write("Please enter a sequence of numbers for us to reverse: ");
-        string userInput = Console.ReadLine();
-        isNumber = Int32.TryParse(userInput, out num);
+        isConverted = false;
+        while(!isConverted)
+        {
+            // 
+            Console.WriteLine("Alright, that's good to hear.");
+            Console.Write("Please enter a sequence of numbers for us to reverse: ");
+            string userInput = Console.ReadLine();
+            isNumber = Int32.TryParse(userInput, out num);
+                if(isNumber == true)
+                {
+                    //
+                    while(num > 0)
+                    {
+                        //
+                        int remainder = num % 10;
+                        reverseNum = (reverseNum * 10) + remainder;
+                        num = num / 10;
+                    }
+                    Console.WriteLine($"{userInput} is {reverseNum} in reverse.");
+                    isConverted = true;
+                    
+                }
+                else
+                {
+                    //
+                    Console.WriteLine("This isn't a valid whole number");
+                }
+        }
+            
     }
     else
     {
         Console.WriteLine("Invalid input");
     }
+
 
 
 }

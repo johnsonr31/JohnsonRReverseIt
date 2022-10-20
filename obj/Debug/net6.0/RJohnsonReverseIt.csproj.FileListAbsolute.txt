@@ -1,0 +1,15 @@
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.csproj.AssemblyReference.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.AssemblyInfoInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.AssemblyInfo.cs
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.exe
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.deps.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.runtimeconfig.json
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\refint\RJohnsonReverseIt.dll
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.pdb
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.genruntimeconfig.cache
+C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\ref\RJohnsonReverseIt.dll
