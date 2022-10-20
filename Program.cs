@@ -7,6 +7,7 @@ bool playAgain;
 bool isConverted = false;
 bool isNumber;
 int validNum = 0;
+int num = 0;
 int reverseNum = 0;
 
 
@@ -23,6 +24,21 @@ while(playAgain == true)
     if(yesNo == "NO" && isNumber != true)
     {
         // This will run if the input is no, and not a number
+        Console.WriteLine("Alright, goodbye then.");
+        Console.WriteLine(" ");
+        playAgain = false;
+    }
+    else if(yesNo == "YES" && isNumber != true)
+    {
+        // 
+        Console.WriteLine("Alright, that's good to hear.");
+        Console.Write("Please enter a sequence of numbers for us to reverse: ");
+        string userInput = Console.ReadLine();
+        isNumber = Int32.TryParse(userInput, out num);
+    }
+    else
+    {
+        Console.WriteLine("Invalid input");
     }
 
 
