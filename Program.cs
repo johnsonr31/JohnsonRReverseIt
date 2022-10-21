@@ -8,13 +8,15 @@ bool isConverted = false;
 bool isNumber;
 int validNum = 0;
 int num = 0;
+int inputLength;
+int inputLengthMax = 7;
 int reverseNum = 0;
 
 
 // This while loop will play as long as playAgain is true
 while(playAgain == true)
 {
-    // 
+    // The program will ask the user if they want to reverse some numbers
     reverseNum = 0;
     Console.WriteLine("Want to reverse some numbers?");
     Console.Write("Please type YES or NO: ");
@@ -24,23 +26,23 @@ while(playAgain == true)
 
     if(yesNo == "NO" && isNumber != true)
     {
-        // This will run if the input is no, and not a number
+        // If the user enters NO, the program will print the text below and playAgain will be declared false, ending the program
         Console.WriteLine("Alright, goodbye then.");
         Console.WriteLine(" ");
         playAgain = false;
     }
     else if(yesNo == "YES" && isNumber != true)
-    
     {
+        Console.WriteLine("Alright, good.");
         isConverted = false;
         while(!isConverted)
         {
-            // 
-            Console.WriteLine("Alright, that's good to hear.");
-            Console.Write("Please enter a sequence of numbers for us to reverse: ");
+            // If the user enters yes, they will be asked to enter a sequence of numbers to reverse
+            Console.Write("Please enter a sequence of numbers to reverse (no more than 7): ");
             string userInput = Console.ReadLine();
             isNumber = Int32.TryParse(userInput, out num);
-                if(isNumber == true)
+            inputLength = userInput.Length;
+                if(isNumber == true && inputLength <= inputLengthMax)
                 {
                     //
                     while(num > 0)
@@ -54,10 +56,14 @@ while(playAgain == true)
                     isConverted = true;
                     
                 }
-                else
+                else if (isNumber == true && inputLength > inputLengthMax)
                 {
                     //
-                    Console.WriteLine("This isn't a valid whole number");
+                    Console.WriteLine("That sequence is too long.");
+                }
+                else
+                {
+                    Console.WriteLine("That is not a valid input");
                 }
         }
             
