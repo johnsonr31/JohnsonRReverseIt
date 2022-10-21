@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rcj53\\.nuget\\packages\\": {}
+    "C:\\Users\\ferna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonReverseIt\\RJohnsonReverseIt.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\RJohnsonReverseIt\\RJohnsonReverseIt.csproj",
       "projectName": "RJohnsonReverseIt",
-      "projectPath": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonReverseIt\\RJohnsonReverseIt.csproj",
-      "packagesPath": "C:\\Users\\rcj53\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rcj53\\Documents\\CodeStack Assignments\\Lvl1\\Week 1\\RJohnsonReverseIt\\obj\\",
+      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\RJohnsonReverseIt\\RJohnsonReverseIt.csproj",
+      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitReviews\\RJohnsonReverseIt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rcj53\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

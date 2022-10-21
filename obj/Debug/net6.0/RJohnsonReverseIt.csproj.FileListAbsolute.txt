@@ -13,3 +13,18 @@ C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.pdb
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.genruntimeconfig.cache
 C:\Users\rcj53\Documents\CodeStack Assignments\Lvl1\Week 1\RJohnsonReverseIt\obj\Debug\net6.0\ref\RJohnsonReverseIt.dll
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.exe
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.deps.json
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.dll
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\bin\Debug\net6.0\RJohnsonReverseIt.pdb
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.dll
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\refint\RJohnsonReverseIt.dll
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.pdb
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\RJohnsonReverseIt.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitReviews\RJohnsonReverseIt\obj\Debug\net6.0\ref\RJohnsonReverseIt.dll
